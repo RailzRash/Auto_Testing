@@ -7,6 +7,7 @@ Contributers Welcome!
 3. Test, watch it fail, code, watch it pass. Enjoy!
 
 This rails app relies on: 
+
 <tt>rails 4+ </tt>
 
 <tt>rspec-rails '~> 2.0'</tt>

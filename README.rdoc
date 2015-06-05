@@ -4,7 +4,7 @@ Contributers Welcome!
 
 1. Clone Repo!
 2. bundle it up, migrate development and test databases 
-3. Test, watch it fail, code, watch it pass. Enjoy!
+3. Test, watch it fail, code, watch it pass. Enjoy & repeat!
 
 This rails app relies on: 
 

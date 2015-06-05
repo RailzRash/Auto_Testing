@@ -6,8 +6,11 @@ Contributers Welcome!
 2. bundle it up, migrate development and test databases 
 3. Test, watch it fail, code, watch it pass. Enjoy!
 
-<tt>This Application relies on: <tt>
+<tt>This rails app relies on: </tt>
+
 rails 4+ 
+
 rspec-rails '~> 2.0'
+
 capybara  '~> 2.1.0'
 

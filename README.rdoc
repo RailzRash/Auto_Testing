@@ -8,9 +8,9 @@ Contributers Welcome!
 
 <tt>This rails app relies on: </tt>
 
-rails 4+ 
+<tt>rails 4+ </tt>
 
-rspec-rails '~> 2.0'
+<tt>rspec-rails '~> 2.0'</tt>
 
-capybara  '~> 2.1.0'
+<tt>capybara  '~> 2.1.0'
 

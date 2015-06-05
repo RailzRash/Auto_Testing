@@ -12,5 +12,5 @@ Contributers Welcome!
 
 <tt>rspec-rails '~> 2.0'</tt>
 
-<tt>capybara  '~> 2.1.0'
+<tt>capybara  '~> 2.1.0'</tt>
 
